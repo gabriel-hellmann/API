@@ -1,3 +1,3 @@
 # API
 
-API desenvolvida para descobrir a quantidade de dias que a pessoa está viva
+API desenvolvida para descobrir a idade de uma pessoa, em dias.
